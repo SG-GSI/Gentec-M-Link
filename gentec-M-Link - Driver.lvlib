@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Documentation" Type="Folder">
-		<Item Name="gentec M-Link Manual Rev 1.0.pdf" Type="Document" URL="../Documentation/gentec M-Link Manual Rev 1.0.pdf"/>
+		<Item Name="gentec M-Link Manual Rev 1.0.pdf" Type="Document" URL="/S/Subsysteme/PCS/Dokumentation/gentec M-Link Manual Rev 1.0.pdf"/>
 	</Item>
 	<Item Name="Driver" Type="Folder">
 		<Item Name="Low Level" Type="Folder">
